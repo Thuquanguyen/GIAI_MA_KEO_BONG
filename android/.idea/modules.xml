@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/android.iml" filepath="$PROJECT_DIR$/.idea/modules/android.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/android.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/android.app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1263454588/android.flutter_inappwebview.iml" filepath="$PROJECT_DIR$/.idea/modules/-1263454588/android.flutter_inappwebview.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/1033428339/android.shared_preferences_android.iml" filepath="$PROJECT_DIR$/.idea/modules/1033428339/android.shared_preferences_android.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-2039001370/android.webview_flutter_android.iml" filepath="$PROJECT_DIR$/.idea/modules/-2039001370/android.webview_flutter_android.iml" />
+    </modules>
+  </component>
+</project>

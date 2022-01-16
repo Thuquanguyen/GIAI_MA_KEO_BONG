@@ -1,0 +1,4 @@
+#Sat Jan 08 23:31:56 ICT 2022
+base.0=/Users/apple/Desktop/GMSH_FLUTTER/build/app/intermediates/dex/debug/mergeDexDebug/classes.dex
+renamed.0=classes.dex
+path.0=classes.dex
